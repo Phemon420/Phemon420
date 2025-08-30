@@ -1,7 +1,7 @@
-## Hi there 👋
+# <samp> &gt; Hi there, I'm <a href="google.com" target="_blank">Om Srivastava</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey Everyone Glad To See You Here!🕹️&height=100&section=header"/>
 </p>
 
 <h1 align="center">
