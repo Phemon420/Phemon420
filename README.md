@@ -1,18 +1,18 @@
-# <samp> &gt; Hi there, I'm <a href="google.com" target="_blank">Om Srivastava</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+# <samp> &gt; Hi there, I'm <a href="https://www.linkedin.com/in/om-srivastava3466/" target="_blank">Om Srivastava</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey Everyone Glad To See You Here!🕹️&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=full-stack%20developer-nl-Om%20Srivastava&fontColor=E4F3E3&textBg=false&descAlignY=52&descAlign=75&animation=fadeIn"/>
 </p>
 
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  Let's Connect and Discuss Tech!💬
 </h1>
 
 <p align="center">
 <a href="https://piyushmalhotra.netlify.app/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
-<a href="https://www.linkedin.com/in/thepiyushmalhotra/">
+<a href="https://www.linkedin.com/in/om-srivastava3466/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 <a href="https://thepiyushmalhotra.medium.com/">
