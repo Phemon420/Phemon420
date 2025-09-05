@@ -27,5 +27,7 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Phemon420&count_private=true&theme=tokyonight&showicons=true&hide=contribs&show=prs_merged)]()
 
 ## 🛠️ Languages and Tools
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phemon420&layout=compact&theme=radical)](https://github.com/Phemon420/github-readme-stats)
+<-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phemon420&layout=compact&theme=radical)](https://github.com/Phemon420/github-readme-stats) -->
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phemon420&&show_icons=true&hide_border=true&layout=compact&langs_count=10) | ![om's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Phemon420&hide_border=true)  |
+| --- | --- |
 
