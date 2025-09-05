@@ -22,3 +22,6 @@
 
  <p align="center"><img src="https://github.com/Phemon420/Phemon420/blob/main/roblox-roblox-memes.gif"/> </p>
 
+## 📊 GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Phemon420&count_private=true&theme=tokyonight&showicons=true)]()
