@@ -25,3 +25,5 @@
 ## 📊 GitHub Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Phemon420&count_private=true&theme=tokyonight&showicons=true&hide=contribs&show=prs_merged)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phemon420)](https://github.com/Phemon420/github-readme-stats)
